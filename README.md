@@ -13,7 +13,7 @@ Execute o script:bash parrot.sh -y
 Agora é só iniciar o parrot OS:./startparrot.sh
 
 
-Ficou feliz com o Parrot OS para android?! Me pague um café pra mim ajudar a continuar a trazer conteudos como esse totalmente gratis pra vcs...
+Ficou feliz com o Parrot OS para android?! Pague um café pra mim ajudar a continuar a trazer conteudos como esse totalmente gratis pra vcs...
 
 Carteira Bitcoin: 37xzFPtaphun9JF6DmWvHiZ16fw8xiECcr
 
